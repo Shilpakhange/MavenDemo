@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="44" started-at="2020-01-09T14:05:11 IST" finished-at="2020-01-09T14:05:11 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="44" started-at="2020-01-09T14:05:11 IST" finished-at="2020-01-09T14:05:11 IST">
+      <class name="TestMaven.mavenTestDemo">
+        <test-method status="PASS" signature="add()[pri:0, instance:TestMaven.mavenTestDemo@eec5a4a]" name="add" duration-ms="9" started-at="2020-01-09T14:05:11 IST" finished-at="2020-01-09T14:05:11 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- add -->
+        <test-method status="PASS" signature="mult()[pri:0, instance:TestMaven.mavenTestDemo@eec5a4a]" name="mult" duration-ms="1" started-at="2020-01-09T14:05:11 IST" finished-at="2020-01-09T14:05:11 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mult -->
+        <test-method status="PASS" signature="sub()[pri:0, instance:TestMaven.mavenTestDemo@eec5a4a]" name="sub" duration-ms="1" started-at="2020-01-09T14:05:11 IST" finished-at="2020-01-09T14:05:11 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sub -->
+      </class> <!-- TestMaven.mavenTestDemo -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
